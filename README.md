@@ -3,7 +3,7 @@ Windows Service Console App that monitors CRUD operations of files in one or mul
 
 e.g.
 
-User wants to monitor the folder C:\Users\Downloads, so he inputs the folder in the App.config of FoldersWatcher then when starting the service every time a new event happens inside the Downloads folder it will be registered in the Log.txt file in the application's logs folder. (Depends if you're launching from Debug folder or if you published it)
+User wants to monitor the folder C:\Users\Downloads, so he inputs the folder in the App.config of FoldersWatcher, then, when starting the service every time a new event happens inside the Downloads folder it will be registered in the Log.txt file in the application's logs folder. (Depends if you're launching from Debug folder or if you published it)
 
 # How to use
 - Publish the application
